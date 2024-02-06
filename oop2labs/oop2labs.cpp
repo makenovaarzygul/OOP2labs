@@ -94,12 +94,12 @@ private:
     vector<Student> students;
 
 public:
-    // Добавление студента
+    // Добавление студентa
     void addStudent() {
         string last, birth, phone;
         cout << "Enter Last Name: ";
         cin >> last;
-        cout << "Enter Birth Date: ";
+        cout << "Enter Birth Date:";
         cin >> birth;
         cout << "Enter Phone Number: ";
         cin >> phone;
