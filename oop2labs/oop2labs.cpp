@@ -76,7 +76,7 @@ int main() {
 
 
 #include <vector>
-#include <algorithm>
+#include <algorithm>ё
 using namespace std;
 
 class Student {
